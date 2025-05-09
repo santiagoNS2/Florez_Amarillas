@@ -45,9 +45,10 @@ Ideal para celebraciones, detalles digitales o actividades académicas relaciona
 ## 🌐 Despliegue en GitHub Pages
 
 🔗 **Tu sitio está en línea en:**  
-[https://santiagons2.github.io/Florez_Moradas
-/](https://santiagons2.github.io/Florez_Moradas
+[[https://santiagons2.github.io/Florez_Moradas](https://santiagons2.github.io/Florez_Moradas/flower.html)
+/]
 /)  
+
 _Last deployed by @santiagoNS2_
 
 1. Asegúrate de que el archivo `index.html` esté en la raíz del proyecto.
