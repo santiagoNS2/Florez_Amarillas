@@ -1,6 +1,7 @@
 # 🌼 Flores Moradas
  – Proyecto Web Creativo
-![alt text](image.png)
+![Flores Moradas](florez_moradas.jpg)
+
 Este proyecto forma parte de una entrega académica/creativa en la que se explora el desarrollo de una experiencia web basada en el concepto de las “flores Moradas
 ”, un símbolo cultural popular que representa el amor, la esperanza y los pequeños detalles.
 
